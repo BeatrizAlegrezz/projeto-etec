@@ -239,7 +239,7 @@ body {
     border: 1px solid var(--border-color);
 }
 
-.foto-perfil-detalhe {
+.foto-perfil{
     width: 120px;
     height: 120px;
     border-radius: 50%;
